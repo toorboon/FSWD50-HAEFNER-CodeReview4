@@ -1,0 +1,54 @@
+
+var movies = 
+	[{ 
+		"name" : "Equilibrium", 
+		"description" : "John Preston (Bale) aids a resistance movement using advanced martial arts.",
+		"src" : "img/equilibrium.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "V for Vendetta", 
+		"description" : "The story depicts a dystopian and post-apocalyptic near-future history version of the United Kingdom.",
+		"src" : "img/vendetta.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "Avatar", 
+		"description" : "The film is set in the mid-22nd century, when humans are colonizing Pandora.",
+		"src" : "img/avatar.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "The Godfather", 
+		"description" : "The story, spanning 1945 to 1955, chronicles the family under the patriarch Vito Corleone.",
+		"src" : "img/godfather.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "Machuca", 
+		"description" : "The film tells the story of two pupils, one rich one poor.",
+		"src" : "img/machuca.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "Lord of the Rings", 
+		"description" : "The story of Frodo trying to get rid of the one and only ring, to destroy it, before it destroys him.",
+		"src" : "img/lord_of_rings.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "Fight Club", 
+		"description" : "An unnamed narrator befriends Tyler Durden and gets involved in a lot of things, he never expected to happen.",
+		"src" : "img/fight_club.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "Memento", 
+		"description" : "A worker lost his memories and trys to find out, who killed his wife and why and if so, gosh, who is that guy?.",
+		"src" : "img/memento.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "The machinist", 
+		"description" : "A machinist whose insomnia and psychological problems lead to a serious workplace accident involving a co-worker.",
+		"src" : "img/machinist.jpg",
+		"like_counter" : "0"
+	},{ 
+		"name" : "Adams Apples", 
+		"description" : "Neo-Nazi gang leader Adam is granted parole from prison for participating in a rehabilitation program.",
+		"src" : "img/adams_apples.jpg",
+		"like_counter" : "0"
+	}
+]
