@@ -15,7 +15,8 @@ $(document).ready(function(){
 			$('.description_placeholder:eq('+i+')').text(movies[i].description);
 			$('.title_placeholder:eq('+i+')').text(movies[i].name);
 			//manipulate the like buttons and add event listener
-			$('.movie_link:eq('+i+')').attr('id',movies[i].name).on('click', increase_like_counter)
+			$('.movie_link:eq('+i+')').attr('id',movies[i].name).prop('onclick',null).off('click').on('click', increase_like_counter)
+			//write initially the "0" from the JSON for the like_counter into the HTML
 			$('.circle:eq('+i+')').text(movies[i].like_counter)
 			//console.log('number: '+i+'title<br>'+movies[i].name+'description<br>'+movies[i].description+'src'+movies[i].src)
 		}

@@ -41,8 +41,8 @@ var movies =
 		"src" : "img/memento.jpg",
 		"like_counter" : "0"
 	},{ 
-		"name" : "The machinist", 
-		"description" : "A machinist whose insomnia and psychological problems lead to a serious workplace accident involving a co-worker.",
+		"name" : "The Machinist", 
+		"description" : "A machinist whose insomnia and psychological problems lead to a serious workplace accident.",
 		"src" : "img/machinist.jpg",
 		"like_counter" : "0"
 	},{ 
